@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dpOPCTegG41htIR36hbkAf0pww0KXuP64SDjPsm1JDM=",
+  "Source": "ProductionAppApi",
+  "BasePath": "_content/ProductionAppApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

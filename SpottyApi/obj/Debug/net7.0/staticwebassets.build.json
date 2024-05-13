@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YJjssEOIEGKoXaVwcikA1u3zGW/wR8lVEKqNQWrEfFY=",
+  "Source": "SpottyApi",
+  "BasePath": "_content/SpottyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

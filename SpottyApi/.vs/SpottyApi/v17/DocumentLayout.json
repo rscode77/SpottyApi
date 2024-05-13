@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\ProductionAppApi\\ProductionAppApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9A445A-2360-4AF2-8B27-B2A64C109F4D}|..\\Infrastructure\\Infrastructure.csproj|s:\\productionappapi\\infrastructure\\repository\\useracitivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9A445A-2360-4AF2-8B27-B2A64C109F4D}|..\\Infrastructure\\Infrastructure.csproj|s:\\productionappapi\\infrastructure\\persistance\\spottydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA239090-D7B6-40D3-B534-3AE90B567AD8}|..\\Domain\\Domain.csproj|s:\\productionappapi\\domain\\interfaces\\iuseractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC1BDC0-81C3-4203-A8D4-81453B1FD6AB}|..\\Application\\Application.csproj|s:\\productionappapi\\application\\services\\useractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA239090-D7B6-40D3-B534-3AE90B567AD8}|..\\Domain\\Domain.csproj|s:\\productionappapi\\domain\\interfaces\\iuseractivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9A445A-2360-4AF2-8B27-B2A64C109F4D}|..\\Infrastructure\\Infrastructure.csproj|s:\\productionappapi\\infrastructure\\helpers\\useractivityhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC7453-17A8-4997-A48E-B59DBC9DC962}|SpottyApi.csproj|s:\\productionappapi\\productionappapi\\controllers\\useractivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBC7453-17A8-4997-A48E-B59DBC9DC962}|SpottyApi.csproj|solutionrelative:controllers\\useractivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC1BDC0-81C3-4203-A8D4-81453B1FD6AB}|..\\Application\\Application.csproj|s:\\productionappapi\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC1BDC0-81C3-4203-A8D4-81453B1FD6AB}|..\\Application\\Application.csproj|s:\\productionappapi\\application\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC7453-17A8-4997-A48E-B59DBC9DC962}|SpottyApi.csproj|s:\\productionappapi\\productionappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBC7453-17A8-4997-A48E-B59DBC9DC962}|SpottyApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC1BDC0-81C3-4203-A8D4-81453B1FD6AB}|..\\Application\\Application.csproj|s:\\productionappapi\\application\\mapping\\productionappmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC7453-17A8-4997-A48E-B59DBC9DC962}|SpottyApi.csproj|s:\\productionappapi\\productionappapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBC7453-17A8-4997-A48E-B59DBC9DC962}|SpottyApi.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC1BDC0-81C3-4203-A8D4-81453B1FD6AB}|..\\Application\\Application.csproj|s:\\productionappapi\\application\\applicationuser\\eventparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9A445A-2360-4AF2-8B27-B2A64C109F4D}|..\\Infrastructure\\Infrastructure.csproj|s:\\productionappapi\\infrastructure\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9A445A-2360-4AF2-8B27-B2A64C109F4D}|..\\Infrastructure\\Infrastructure.csproj|s:\\productionappapi\\infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBC7453-17A8-4997-A48E-B59DBC9DC962}|SpottyApi.csproj|s:\\productionappapi\\productionappapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBC7453-17A8-4997-A48E-B59DBC9DC962}|SpottyApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA239090-D7B6-40D3-B534-3AE90B567AD8}|..\\Domain\\Domain.csproj|s:\\productionappapi\\domain\\entities\\userprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC1BDC0-81C3-4203-A8D4-81453B1FD6AB}|..\\Application\\Application.csproj|s:\\productionappapi\\application\\applicationuser\\addeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9A445A-2360-4AF2-8B27-B2A64C109F4D}|..\\Infrastructure\\Infrastructure.csproj|s:\\productionappapi\\infrastructure\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC1BDC0-81C3-4203-A8D4-81453B1FD6AB}|..\\Application\\Application.csproj|s:\\productionappapi\\application\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA239090-D7B6-40D3-B534-3AE90B567AD8}|..\\Domain\\Domain.csproj|s:\\productionappapi\\domain\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 238,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30447101:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserActivityService.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Domain\\Interfaces\\IUserActivityService.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IUserActivityService.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Domain\\Interfaces\\IUserActivityService.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IUserActivityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:25:53.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserActivityService.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Application\\Services\\UserActivityService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\UserActivityService.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Application\\Services\\UserActivityService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\UserActivityService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:23:09.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAcitivityRepository.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Infrastructure\\Repository\\UserAcitivityRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\UserAcitivityRepository.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Infrastructure\\Repository\\UserAcitivityRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\UserAcitivityRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:20:36.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpottyDbContext.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Infrastructure\\Persistance\\SpottyDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Persistance\\SpottyDbContext.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Infrastructure\\Persistance\\SpottyDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Persistance\\SpottyDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:15:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserActivityRepository.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Domain\\Interfaces\\IUserActivityRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IUserActivityRepository.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Domain\\Interfaces\\IUserActivityRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IUserActivityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:27:14.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserActivityHub.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Infrastructure\\Helpers\\UserActivityHub.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Helpers\\UserActivityHub.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Infrastructure\\Helpers\\UserActivityHub.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Helpers\\UserActivityHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:28:23.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Application\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Application\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "..\\Application\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:14:45.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\AuthService.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:57:39.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserActivityController.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\ProductionAppApi\\Controllers\\UserActivityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserActivityController.cs",
+              "ToolTip": "S:\\ProductionAppApi\\ProductionAppApi\\Controllers\\UserActivityController.cs",
+              "RelativeToolTip": "Controllers\\UserActivityController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAjwCgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:20:07.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\ProductionAppApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "S:\\ProductionAppApi\\ProductionAppApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAawDQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:34:17.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\ProductionAppApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "S:\\ProductionAppApi\\ProductionAppApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:34:11.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductionAppMappingProfile.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Application\\Mapping\\ProductionAppMappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Mapping\\ProductionAppMappingProfile.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Application\\Mapping\\ProductionAppMappingProfile.cs",
+              "RelativeToolTip": "..\\Application\\Mapping\\ProductionAppMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:36:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\ProductionAppApi\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "S:\\ProductionAppApi\\ProductionAppApi\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwDMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:31:08.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Infrastructure\\Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\EventRepository.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Infrastructure\\Repository\\EventRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\EventRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:24:31.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Infrastructure\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\AuthRepository.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Infrastructure\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\AuthRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:25:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:57:42.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserProfiles.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Domain\\Entities\\UserProfiles.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\UserProfiles.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Domain\\Entities\\UserProfiles.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\UserProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:45:24.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventParticipantDto.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Application\\ApplicationUser\\EventParticipantDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\ApplicationUser\\EventParticipantDto.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Application\\ApplicationUser\\EventParticipantDto.cs",
+              "RelativeToolTip": "..\\Application\\ApplicationUser\\EventParticipantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:12:17.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddEventDto.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Application\\ApplicationUser\\AddEventDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\ApplicationUser\\AddEventDto.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Application\\ApplicationUser\\AddEventDto.cs",
+              "RelativeToolTip": "..\\Application\\ApplicationUser\\AddEventDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:39:19.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Application\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\EventService.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Application\\Services\\EventService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\EventService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:22:40.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "S:\\ProductionAppApi\\Domain\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IEventService.cs",
+              "ToolTip": "S:\\ProductionAppApi\\Domain\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:20:08.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

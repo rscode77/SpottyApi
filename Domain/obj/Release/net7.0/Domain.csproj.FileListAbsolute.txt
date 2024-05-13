@@ -1,0 +1,15 @@
+E:\Api\ProductionMaterialAPI\Domain\bin\Release\net7.0\Domain.deps.json
+E:\Api\ProductionMaterialAPI\Domain\bin\Release\net7.0\Domain.runtimeconfig.json
+E:\Api\ProductionMaterialAPI\Domain\bin\Release\net7.0\Domain.dll
+E:\Api\ProductionMaterialAPI\Domain\bin\Release\net7.0\Domain.pdb
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\Domain.csproj.AssemblyReference.cache
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\Domain.AssemblyInfoInputs.cache
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\Domain.AssemblyInfo.cs
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\Domain.sourcelink.json
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\Domain.dll
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\refint\Domain.dll
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\Domain.pdb
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\Domain.genruntimeconfig.cache
+E:\Api\ProductionMaterialAPI\Domain\obj\Release\net7.0\ref\Domain.dll

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Api\ProductionMaterialAPI\ProductionMaterialApi\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-05-05T13:05:43.0137703Z;True|2024-05-05T15:02:45.2417311+02:00;True|2024-05-05T14:32:34.1752324+02:00;True|2024-05-05T14:16:30.8991480+02:00;True|2024-05-05T13:11:40.8609870+02:00;True|2024-05-04T20:34:44.7779097+02:00;True|2024-05-04T20:21:58.0743195+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
